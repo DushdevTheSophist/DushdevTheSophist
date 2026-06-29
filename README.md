@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- CENTERED HEADER ZONE -->
 <p align="center">
   <img src="./banner.png" alt="The Last Philosopher Banner" width="100%">
 </p>
@@ -24,10 +23,15 @@ Here are some ideas to get you started:
   <i>"An empty heart. A mind full of malice. Watching the ruins burn."</i>
 </p>
 
+<!-- CENTERED BADGES & VIEW COUNTER -->
 <p align="center">
   <img src="https://shields.io" alt="Status">
   <img src="https://shields.io" alt="Focus">
   <img src="https://shields.io" alt="Theme">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views">
 </p>
 
 ---
@@ -78,7 +82,3 @@ curl -X POST https://yourdomain.com \
   -H "Content-Type: application/json" \
   -d '{"message": "Speak, mortal."}'
 ```
-
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views">
-</p>
