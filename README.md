@@ -9,6 +9,7 @@
 </p>
 
 <!-- CENTERED BADGES & VIEW COUNTER -->
+<!--
 <p align="center">
   <img src="https://shields.io" alt="Status">
   <img src="https://shields.io" alt="Focus">
@@ -19,7 +20,7 @@
   <img src="https://komarev.com" alt="Profile Views">
 </p>
 
----
+-->
 
 ### 🩸 THE CHRONICLES OF MALICE
 
@@ -32,11 +33,12 @@ Architecting systems in absolute silence while the world outside collapses into 
 - 🌋 **The Ember Stack:** Deep learning systems, low-level engine engineering, and high-performance algorithms.
 - 🕳️ **Current Status:** Emotionless execution. Actively tired.
 
----
+<!--
 
 ### ⚔️ FORGED IN THE FIRE
 
 <!-- Custom styled grid for tech stack or metrics using custom-colored icons -->
+<!--
 <p align="left">
   <a href="https://github.com/DushdevTheSophist">
     <img src="https://vercel.app" alt="GitHub Stats" width="48%">
@@ -46,7 +48,7 @@ Architecting systems in absolute silence while the world outside collapses into 
   </a>
 </p>
 
----
+-->
 
 ### 🕯️ WEAPONS OF CHOICE
 
