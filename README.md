@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My Profile Banner]([./banner.png](https://github.com/DushdevTheSophist/DushdevTheSophist/blob/main/banner.png))
+![My Profile Banner](https://github.com/DushdevTheSophist/DushdevTheSophist/blob/main/banner.png)
