@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![My Profile Banner](https://github.com/DushdevTheSophist/DushdevTheSophist/blob/main/banner.png)
+![My Profile Banner](./banner.png)
