@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="The Last Philosopher Banner" width="100%">
+  <img src="./banner.png" alt="The Fallen Academy Banner" width="100%">
 </p>
 
 <h1 align="center">🏛️ THE FALLEN ACADEMY</h1>
@@ -9,7 +9,6 @@
 </p>
 
 <!-- CENTERED BADGES & VIEW COUNTER -->
-
 <p align="center">
   <img src="https://shields.io" alt="Status">
   <img src="https://shields.io" alt="Focus">
@@ -24,13 +23,13 @@
 
 ```text
 "I remember what Greece was... before the blood rain washed away the gods."
+
 Architecting systems in absolute silence while the world outside collapses into embers.
 ```
 
 - 🏛️ **Currently Overturning:** Deconstructing legacy architectures to build indestructible foundations.
 - 🌋 **The Ember Stack:** Deep learning systems, low-level engine engineering, and high-performance algorithms.
 - 🕳️ **Current Status:** Emotionless execution. Actively tired.
-
 
 ### ⚔️ FORGED IN THE FIRE
 
