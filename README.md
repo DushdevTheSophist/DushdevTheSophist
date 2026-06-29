@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My Profile Banner](./banner.png)
-
 
 <!-- CENTERED HEADER ZONE -->
 <p align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="The Last Philosopher Banner" width="100%">
+  <img src="./banner.png" alt="The Last Philosopher Banner" width="100%">
 </p>
 
 <h1 align="center">🏛️ THE FALLEN ACADEMY</h1>
