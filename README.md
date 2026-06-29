@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - 🏛️ **Currently Overturning:** Deconstructing legacy architectures to build indestructible foundations.
 - 🌋 **The Ember Stack:** Deep learning systems, low-level engine engineering, and high-performance algorithms.
-- 🕳️ **Current Status:** Emotionless execution. Actively tired of poorly written code documentation.
+- 🕳️ **Current Status:** Emotionless execution. Actively tired.
 
 ---
 
@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 
 <!-- Custom styled grid for tech stack or metrics using custom-colored icons -->
 <p align="left">
-  <a href="https://github.com">
+  <a href="https://github.com/DushdevTheSophist">
     <img src="https://vercel.app" alt="GitHub Stats" width="48%">
   </a>
-  <a href="https://github.com">
+  <a href="https://github.com/DushdevTheSophist">
     <img src="https://vercel.app" alt="Top Languages" width="48%">
   </a>
 </p>
@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 
 | Epoch | Domain | Technologies |
 | :--- | :--- | :--- |
-| **Foundation** | Low-Level Systems | `C++` `Rust` `Assembly` |
-| **Logic** | Backend Infrastructure | `Go` `Python` `gRPC` `Docker` |
-| **Void** | Data Architecture | `PostgreSQL` `Redis` `Kafka` |
+| **Foundation** | Low-Level Systems | `C/C++` `Assembly` |
+| **Logic** | Backend Infrastructure | `Java` `Python` `Go` |
+| **Void** | Data Architecture | `PostgreSQL` `SQLite` `Hadoop` |
 
----
+<!--
 
 ### 💬 COMPACT WITH THE GHOST
 
@@ -82,3 +82,4 @@ curl -X POST https://yourdomain.com \
   -H "Content-Type: application/json" \
   -d '{"message": "Speak, mortal."}'
 ```
+-->
