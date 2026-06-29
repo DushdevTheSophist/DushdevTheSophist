@@ -24,8 +24,8 @@
 ### 🩸 THE CHRONICLES OF MALICE
 
 ```text
-▲ "I remember what Greece was... before the blood rain washed away the gods."
-▲ Architecting systems in absolute silence while the world outside collapses into embers.
+"I remember what Greece was... before the blood rain washed away the gods."
+Architecting systems in absolute silence while the world outside collapses into embers.
 ```
 
 - 🏛️ **Currently Overturning:** Deconstructing legacy architectures to build indestructible foundations.
