@@ -9,7 +9,7 @@
 </p>
 
 <!-- CENTERED BADGES & VIEW COUNTER -->
-<!--
+
 <p align="center">
   <img src="https://shields.io" alt="Status">
   <img src="https://shields.io" alt="Focus">
@@ -19,8 +19,6 @@
 <p align="center">
   <img src="https://komarev.com" alt="Profile Views">
 </p>
-
--->
 
 ### 🩸 THE CHRONICLES OF MALICE
 
