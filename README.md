@@ -35,10 +35,10 @@ Architecting systems in absolute silence while the world outside collapses into 
 
 <!-- Custom styled grid for tech stack or metrics using custom-colored icons -->
 <p align="left">
-  <a href="https://github.com">
+  <a href="[https://github.com](https://github.com/DushdevTheSophist)">
     <img src="https://vercel.app" alt="GitHub Stats" width="48%">
   </a>
-  <a href="https://github.com">
+  <a href="[https://github.com/Dushdev](https://github.com/DushdevTheSophist)">
     <img src="https://vercel.app" alt="Top Languages" width="48%">
   </a>
 </p>
