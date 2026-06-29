@@ -8,11 +8,11 @@
   <i>"An empty heart. A mind full of malice. Watching the ruins burn."</i>
 </p>
 
-<!-- CENTERED BADGES & VIEW COUNTER -->
+<!-- TERMINAL STATUS CHIPS (NO BROKEN IMAGES) -->
 <p align="center">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Focus">
-  <img src="https://shields.io" alt="Theme">
+  <code><b>STATUS:</b> <font color="#ff3333">EXECUTION</font></code> &nbsp;|&nbsp;
+  <code><b>FOCUS:</b> <font color="#999999">LOW-LEVEL</font></code> &nbsp;|&nbsp;
+  <code><b>THEME:</b> <font color="#8b0000">MALICE-VOID</font></code>
 </p>
 
 <p align="center">
@@ -35,10 +35,10 @@ Architecting systems in absolute silence while the world outside collapses into 
 
 <!-- Custom styled grid for tech stack or metrics using custom-colored icons -->
 <p align="left">
-  <a href="https://github.com/DushdevTheSophist">
+  <a href="https://github.com">
     <img src="https://vercel.app" alt="GitHub Stats" width="48%">
   </a>
-  <a href="https://github.com/DushdevTheSophist">
+  <a href="https://github.com">
     <img src="https://vercel.app" alt="Top Languages" width="48%">
   </a>
 </p>
